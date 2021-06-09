@@ -1,1 +1,1 @@
-worker: python3 MusicSpot.py
+web: gunnicorn gettingstarted.wsg
