@@ -1,1 +1,1 @@
-web: python3 MusicSpot.py
+worker: python3 MusicSpot.py
