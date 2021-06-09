@@ -1,1 +1,1 @@
-web: python MusicSpot.py
+web: python3 MusicSpot.py
